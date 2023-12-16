@@ -10,7 +10,7 @@ Lyric(Document): I removed the extra spaces with replace() function.
 ## Annotations and Tools
 Annotations: tokenization, lemmatization, part of speech and named entity recognition.<br/>
 Tools: BeautifulSoup, pandas and spaCy.
-## Files Format and The Description of the Columns
+## The Files Format and The Description of the Columns
 Format: csv & txt <br/>
 Description:
 | Header | Description | Data Type |
