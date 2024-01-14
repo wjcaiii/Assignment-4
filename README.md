@@ -9,7 +9,7 @@ Title(Filename): I called startswith() function to filter out needless informati
 Lyric(Document): I removed the extra spaces with replace() function. 
 ## Annotations and Tools
 Annotations: tokenization, lemmatization, part of speech and named entity recognition.<br/>
-Tools: BeautifulSoup, pandas and spaCy.
+Tools: the requests libraries, BeautifulSoup, pandas and spaCy.
 ## The Files Format and The Description of the Columns
 Format: csv & txt <br/>
 Description:
