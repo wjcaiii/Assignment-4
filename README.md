@@ -21,10 +21,10 @@ Description:
 | Producer | Producer of each song | String |
 | Document | Original text | String |
 | Text | Preprocessed text | String |
-| Tokens | A tokenized version of the texts in Doc | String |
-| Lemmas | Root words of the words in Doc | String |
-|POS | Parts of speech of the words in Doc | String |
-| Named Entities | Named entites of the words in Doc | String |
+| Tokens | A tokenized version of the texts | String |
+| Lemmas | Root words of the words in Text | String |
+|POS | Parts of speech of the words in Text | String |
+| Named Entities | Named entites of the words in Text | String |
 
 
 ## The Quality Checks
