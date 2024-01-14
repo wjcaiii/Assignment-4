@@ -5,7 +5,7 @@ All songs in this album were collected.
 ## The Data Collection Process
 First, I entered the website (https://genius.com/albums/Adele/25). Then, I used BeautifulSoup in Python for web scraping. I extracted the titles and the links of these songs, but the HTML text of lyrics was too complex to understand. Therefore, I had to manually copy the lyrics and pasted them to 14 text files. Furthermore, I wrote a metadata for the data, which recorded the track and the producer of each song.
 ## Cleaning and Preprocessing Steps
-Title(Filename): I called startswith() function to filter out needless information which did not start with "\n".<br/>
+Title(Filename): I called startswith() function to filter out needless information which did not start with "\n", and removed spaces with replace() function.<br/>
 Lyric(Document): I removed the extra spaces with replace() function. 
 ## Annotations and Tools
 Annotations: tokenization, lemmatization, part of speech and named entity recognition.<br/>
