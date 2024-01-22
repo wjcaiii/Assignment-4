@@ -29,3 +29,5 @@ Description:
 
 ## The Quality Checks
 In named entity recognition section, I tested the result of the third song called *I Miss You*. Some named entities were inaccurate. For example, "Down" was identified as a person since it's capitalized as the first word in a sentence. Also, "Towards" was recognized as a product. In a word, before we use NER to analyze a text, we need to check the result first. The outcomes based on NER may not be quite reliable. 
+## Copyright Issues
+Due to copyright issues, I only upload the csv file instead of a directory containing 14 text files for all lyrics.
